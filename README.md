@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Full Stack Mobile App Developer 🧑‍💻 | Crafting Seamless Apps from Scratch with Modern UI/UX Standards 📱</h2>
+<h2 align="left">Full Stack Mobile App Developer 🧑‍💻 | Crafting Seamless Apps from Scratch📱</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 ###
 
 <div align="left">
-  <a href="shah.vansh132@gmail.com" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/vanshah/" target="_blank">
