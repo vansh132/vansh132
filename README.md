@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vansh Shah</h1>
 <h3 align="center">Full Stack Flutter Developer</h3>
 
-- 🔭 I’m currently working on [EventQuest](https://github.com/vansh132/EventQuest)
+- 🔭 I’m currently working on [CU Report Rover](https://github.com/vansh132/cureportrover)
 
 - 🌱 I’m currently learning **Kafka, Reddis**
 
-- 👨‍💻 All of my projects are available at [https://vanshah.netlify.app/](https://vanshah.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://vansh132.github.io/portfolio-dev/](https://vansh132.github.io/portfolio-dev/)
 
 - 💬 Ask me about **Flutter, Dart**
 
