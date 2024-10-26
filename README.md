@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, Python**
 
-- 👨‍💻 All of my projects are available at [https://vansh132.github.io/portfolio-dev/](https://vansh132.github.io/portfolio-dev/)
-
-- 📫 How to reach me **shah.vansh132@gmail.com**
+- 📫 How to reach me **vanshah.132@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
