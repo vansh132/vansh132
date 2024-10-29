@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vansh Shah</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [CU Report Rover](https://github.com/vansh132/report)
+- 🔭 I’m working on [CU Report Rover](https://github.com/vansh132/report)
 
 - 🌱 I’m currently learning **React.js, Python**
 
